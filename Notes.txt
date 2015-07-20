@@ -1,5 +1,0 @@
-18  four sum
-132 clone path
-152 Maximum Product Subarray
-153 Find Minimum in Rotated Sorted Array
-169 Majority Element
