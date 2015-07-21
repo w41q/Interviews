@@ -42,7 +42,6 @@ public class addList
         	lnn.next = ca;
         }
         ln = lnn;
-        
         while(l11.next!=null || l22.next!=null)
         {
             int a = 0, b = 0;
