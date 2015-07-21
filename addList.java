@@ -7,21 +7,6 @@ public class addList
 		ListNode ll1, ll2;
 		ll1 = l1;
 		ll2 = l2;
-		
-//		ListNode ln1 = new ListNode(8);
-//		ll1.next = ln1;
-//		ll1 = ln1;
-		
-//		for(int i=0;i<2;i++)
-//		{
-//			ListNode ln1 = new ListNode(2*i+3);
-//			ll1.next = ln1;
-//			ll1 = ln1;
-//			ListNode ln2 = new ListNode(2*i+4);
-//			ll2.next = ln2;
-//			ll2 = ln2;
-//		}
-
 		ListNode pnt = l2;
 		System.out.println(pnt.val);
 		while(pnt.next!=null)
